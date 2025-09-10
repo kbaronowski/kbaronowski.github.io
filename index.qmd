@@ -1,0 +1,66 @@
+---
+# title: "Katie B"
+format: html
+---
+
+## About me
+
+<span style="font-size: 28px; color:rgb(128, 51, 204);"><strong> Welcome to my profile! </strong></span> 
+
+::: {.grid}
+::: {.g-col-4}
+![](images/picofme.JPG)
+:::
+
+::: {.g-col-8}
+Hello, I'm <span style="font-size: 28px; color:rgb(128, 51, 204);"><strong>Katie Baronowski</strong></span> <br>
+🎓 PhD Student in Information Science with a focus on integrating the technological with the biological by using drones and AI to enhance the work of detection dogs.<br>
+🏫 State University of New York at Albany (SUNY Albany)<br>
+📍 New York, USA <br>
+
+🔬 **Research Interests**:  
+- Improving detection capabilities  
+- Applying AI and Machine Learning in new ways  
+- Ensuring AI is used responsibly
+
+:::
+:::
+
+## Education
+
+🎓 **PhD Student in Information Science**, State University of New York at Albany, USA (Aug 2024 – Present)  <br>
+  - Cumulative GPA: 4.00/4.00. <br>
+  - Primary Specialization: Information for Risk in Emergency Management and Security
+  - Secondary Specialization: Information in Organizational Environments
+
+🎓 **Bachlelor of Technology in Canine Training and Management and Bachelor of Science in Applied Psychology**, SUNY Cobleskill, USA (Aug 2020 – May 2024) <br>
+  - Outstanding Student in Psychology 2024. <br>
+  - Student Leadership Award 2024.  <br>
+  - Honors Capstone: Canine discrimination of the enantiomers of carvone.
+
+## Research Overview
+
+My research explores the intersection of **Technological** and the **Biological**, aiming to develop AI algorithms that enhance **predication of target odor** and the **efficacy of search and rescue**.
+
+## Recent Updates
+
+🏆 Received **AEOP Fellowship**.  <br>
+🚀 Internship at the Grants, Research, and Opportunites Workforce in the State University of New York system for summer 2025.
+📜 Attending **INTERSECT** bootcamp at Princeton New Jersey (July 2025).  <br>
+✍️ First-author manuscript on **detection dogs**.  <br>
+🚀 Mentoring undergraduate students in the **Mobile Sensor Lab** at SUNY Albany.
+
+
+## Quick Links
+
+🔬 [Research](/research/index.html) <br>
+🎓 [Academic Experience](/academic.html) <br>
+💼 [Professional Experience](/professional.html) <br>
+🛠️ [Practical Projects](/projects.html) <br>
+📝 [Blog](/blog/index.html) <br>
+📄 [CV](/cv.pdf)
+
+## Contact  
+📧 [kbaronowski@albany.edu](mailto:kbaronowski@albany.edu)  <br>
+
+Thank you!
