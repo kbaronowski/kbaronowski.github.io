@@ -6,7 +6,7 @@ format: html
 <!-- # 🔬 Research Interests -->
 
 <div class="research-card">
-Trustworthy AI, with a focus on **privacy**, **security**, and **robustness** in large language models (LLMs).
+Human and Animal, with a focus on **information behavior**, **s**, and **robustness** in large language models (LLMs).
 
 <div class="research-highlights">
 🛡️ **My work explores:**<br>
