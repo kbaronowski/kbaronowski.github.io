@@ -19,7 +19,7 @@ website:
         text: Projects
       - href: blog.qmd
         text: Blog
-      - href: KieuDang_CV.pdf
+      - href: cv.pdf
         text: CV
     right: []
 
