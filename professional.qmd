@@ -22,7 +22,7 @@ format: html
 </li>
 
 <li>
-<strong>Research Coordinator (Co-op)</strong> <span class="date-inline">Jun 2025 – Aug 2025</span><br>
+<strong>Research Coordinator </strong> <span class="date-inline">Jun 2025 – Aug 2025</span><br>
 🏢 State University of New York at Cobleskill, NY, USA<br>
 - 🖼️ Coordinated Round Goby detection dog project with USGS.<br>
 - 🚀 Collected samples, trained participants, ran expiremental trials.
