@@ -61,6 +61,4 @@ The website is automatically deployed to GitHub Pages using GitHub Actions. Any 
 
 ## Contact
 
-- Email: vdang@albany.edu
-- GitHub: [kirudang](https://github.com/kirudang)
-- Google Scholar: [Kieu Dang](https://scholar.google.com/citations?hl=en&user=QOjXeq4AAAAJ)
+- Email: kbaronowski@albany.edu
