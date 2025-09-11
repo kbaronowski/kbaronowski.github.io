@@ -3,16 +3,16 @@ title: "🔬 Research"
 format: html
 ---
 
-<!-- # 🔬 Research Interests -->
+<!-- # 🧪 Research Interests -->
 
 <div class="research-card">
 Information Science student, with a focus on **human-computer interaction**, **information behavior**, and utilizing technology to enhance **detection K9-handler teams**.
 
 <div class="research-highlights">
-🛡️ **My work explores:**<br>
-- 🔒 Detection dogs<br>
-- 🔐 Information Behavior<br>
-- 💧 Human-Computer Interaction<br>
+🥼 **My work explores:**<br>
+- 🐶 Detection dogs<br>
+- ℹ️ Information Behavior<br>
+- 🧑‍💻 Human-Computer Interaction<br>
 
 to improve detection capabilites and response during emergencies and disasters.
 </div>
@@ -31,11 +31,6 @@ to improve detection capabilites and response during emergencies and disasters.
 
 </ul>
 
-# 📜 Patent
-
-<ul class="custom-list">
-
-</ul>
 
 # 🏛️ Research Experience
 
