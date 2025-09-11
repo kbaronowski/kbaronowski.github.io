@@ -6,15 +6,15 @@ format: html
 <!-- # 🔬 Research Interests -->
 
 <div class="research-card">
-Human and Animal, with a focus on **information behavior**, **s**, and **robustness** in large language models (LLMs).
+Information Science student, with a focus on **human-computer interaction**, **information behavior**, and utilizing technology to enhance **detection K9-handler teams**.
 
 <div class="research-highlights">
 🛡️ **My work explores:**<br>
-- 🔒 Adversarial robustness<br>
-- 🔐 Differential privacy<br>
-- 💧 Watermarking techniques<br>
+- 🔒 Detection dogs<br>
+- 🔐 Information Behavior<br>
+- 💧 Human-Computer Interaction<br>
 
-to ensure reliable and ethical deployment of LLMs in real-world applications.
+to improve detection capabilites and response during emergencies and disasters.
 </div>
 </div>
 
@@ -22,33 +22,26 @@ to ensure reliable and ethical deployment of LLMs in real-world applications.
 
 ## 📖 Published
 <ul class="custom-list">
-**Kieu Dang**, Phung Lai. *Navigating Trustworthiness in LLMs: An Examination of Privacy, Security, and Robustness*. In Proceedings of Computational Data and Social Networks (**CSoNet 2024**).
 
-Dylan Tarace, Phung Lai, **Kieu Dang**, Unal Tatar. *AI-Powered Assessment of Wazuh for Obfuscated Threat Detection*. In Proceedings of IEEE Systems and Information Engineering Design Symposium (**SIEDS 2025**).
 </ul>
 
 ## 📝 Forthcoming (Submitted)
 <ul class="custom-list">
-**Kieu Dang**, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin. *SafeSeal: Certifiable Watermarking for LLM Deployments*. ACM CCS 2025.
+**Katie Baronowski**, Thomas Sadekoski, Kathryn Miller, Brian Hefferon, Eric Best, Mark Cornwell, Jennifer Essler. *Round Goby Detection Dogs*
 
-**Kieu Dang**, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin, Abdallah Khreishah, My Thai. *SoK: Are Watermarks in LLMs Ready for Deployment?* IEEE S&P 2025.
-
-**Kieu Dang**, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin, Abdallah Khreishah. *𝛿-Steal: LLM Stealing Attack with LDP*. ECML PKDD 2025.
 </ul>
 
 # 📜 Patent
 
 <ul class="custom-list">
-**Kieu Dang**, Phung Lai, NhatHai Phan. *SafeSeal: Certifiable Watermarking for LLM Deployments* — Filed non-provisional US patent, April 15, 2025.
+
 </ul>
 
 # 🏛️ Research Experience
 
 <ul class="custom-list">
 <li>
-<strong>Responsible AI Lab – State University of New York at Albany</strong> <span class="date-inline">Jan 2024 – Present</span><br>
-🤝 Collaborating with Microsoft, NJIT, KSU, UF, and HBKU (Qatar) on trustworthy machine learning experiments.<br>
-🧪 Designing and evaluating adversarial robustness strategies for LLMs.
+<strong>Mobile Sensor Lab – State University of New York at Albany</strong> <span class="date-inline">Aug 2024 – Present</span><br>
 </li>
 </ul>
 
