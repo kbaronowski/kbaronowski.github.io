@@ -14,14 +14,14 @@ format: html
 
 ::: {.g-col-8}
 Hello, I'm <span style="font-size: 28px; color:rgb(128, 51, 204);"><strong>Katie Baronowski</strong></span> <br>
-🎓 PhD Student in Information Science with a focus on integrating the technological with the biological by using drones and AI to enhance the work of detection dogs.<br>
+🎓 PhD Student in Information Science with a focus on integrating the technological with the original biological sensors, using drones and AI to enhance the work of detection dogs.<br>
 🏫 State University of New York at Albany (SUNY Albany)<br>
 📍 New York, USA <br>
 
 🔬 **Research Interests**:  
-- Improving detection capabilities  
-- Applying AI and Machine Learning in new ways  
-- Ensuring AI is used responsibly
+- Human-Computer Interaction  
+- Improving detection capabilities 
+- Human and Animal Behavior and Cognition
 
 :::
 :::
@@ -40,7 +40,7 @@ Hello, I'm <span style="font-size: 28px; color:rgb(128, 51, 204);"><strong>Katie
 
 ## Research Overview
 
-My research explores the intersection of **Technological** and the **Biological**, aiming to develop AI algorithms that enhance **predication of target odor** and the **efficacy of search and rescue**.
+My research explores the intersection of **Technological** and the **Biological**, developing AI algorithms that enhance **predication of target odor** and the **efficacy of search and rescue**.
 
 ## Recent Updates
 
