@@ -7,7 +7,7 @@ format: html
 
 <ul class="custom-list">
 <li>
-<strong>Ph.D. Student in Information Science</strong> <span class="date-inline">Aug 2024 – Present</span><br>
+<strong>Ph.D. Student in Information Science</strong> <span class="date-inline"> Aug 2024 – Present</span><br>
 🏫 State University of New York at Albany, NY, USA<br>
 🔬 Research Topic: Trustworthy Machine Learning and AI through the Lens of Privacy and Security<br>
 📊 GPA: 4.00/4.00
