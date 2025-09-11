@@ -15,13 +15,13 @@ format: html
 ::: {.g-col-8}
 Hello, I'm <span style="font-size: 28px; color:rgb(128, 51, 204);"><strong>Katie Baronowski</strong></span> <br>
 🎓 PhD Student in Information Science<br>
-🏫 State University of New York at Albany (SUNY Albany)<br>
+🏫 State University of New York at Albany (UAlbany)<br>
 📍 New York, USA <br>
 
 🔬 **Research Interests**:  
 - Human-Computer Interaction  
 - Improving Detection Dog Capabilities 
-- Human and Animal Behavior and Cognition
+- Information Behavior
 
 :::
 :::
@@ -44,11 +44,11 @@ My research explores the intersection of **Technological** and the **Biological*
 
 ## Recent Updates
 
-🏆 Received **AEOP Fellowship**.  <br>
-🚀 Internship at the Grants, Research, and Opportunites Workforce in the State University of New York system for summer 2025.
+🏆 Received IFW **Women in Technology Award**.  <br>
+🚀 Received **AEOP Fellowship**.
 📜 Attending **INTERSECT** bootcamp at Princeton New Jersey (July 2025).  <br>
 ✍️ First-author manuscript on **detection dogs**.  <br>
-🚀 Mentoring undergraduate students in the **Mobile Sensor Lab** at SUNY Albany.
+🚀 Mentoring undergraduate students in the **Mobile Sensor Lab** at UAlbany.
 
 
 ## Quick Links
