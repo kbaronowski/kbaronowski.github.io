@@ -17,8 +17,8 @@ website:
         text: Professional Experience
       - href: projects.qmd
         text: Projects
-      - href: blog.qmd
-        text: Blog
+      # - href: blog.qmd
+      #   text: Blog
       - href: cv.pdf
         text: CV
     right: []
