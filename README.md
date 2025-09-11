@@ -14,7 +14,7 @@ The website contains the following sections:
   - Quick links to other sections
 
 - **Research** (`research.qmd`)
-  - Research interests in Trustworthy AI
+  - Research interests 
   - Publications and patents
   - Research experience and collaborations
 
