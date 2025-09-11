@@ -1,11 +1,11 @@
 ---
-title: "🚀 Practical Projects"
+title: "👩🏻‍🔬 Practical Projects"
 format: html
 ---
 
-## 📘 I. Detection Dogs
+## 🐕 I. Detection Dogs
 
-### ✨ Round Goby K9s
+### 🐟 Round Goby K9s
 <div class="project-card">
 <div class="project-content">
-This proof of principle project was designed to test the feasibility of **round goby detection dogs**, to identify of the invasion fronts in the tributaries of the Mohawk River in collaboration with USGS.  
+This proof of principle project was designed to test the feasibility of **round goby detection dogs**, in collaboration with USGS.  
