@@ -1,38 +1,45 @@
 [
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "👩🏻‍🔬 Practical Projects",
     "section": "",
-    "text": "Here you’ll find my thoughts, tutorials, and updates about my work.\n\n\n\n\n\nDate: January 1, 2024\nA brief description of the blog post content.\n\n\n\nDate: December 15, 2023\nA brief description of the blog post content.\n\n\n\n\n\n\nResearch Updates\nTutorials\nProject Updates\nGeneral Thoughts\n\n\n\n\nStay updated with my latest posts by following me on Twitter or subscribing to the RSS feed."
+    "text": "This proof of principle project was designed to test the feasibility of round goby detection dogs, in collaboration with USGS."
   },
   {
-    "objectID": "blog/index.html#recent-posts",
-    "href": "blog/index.html#recent-posts",
-    "title": "Blog",
+    "objectID": "projects.html#i.-detection-dogs",
+    "href": "projects.html#i.-detection-dogs",
+    "title": "👩🏻‍🔬 Practical Projects",
     "section": "",
-    "text": "Date: January 1, 2024\nA brief description of the blog post content.\n\n\n\nDate: December 15, 2023\nA brief description of the blog post content."
+    "text": "This proof of principle project was designed to test the feasibility of round goby detection dogs, in collaboration with USGS."
   },
   {
-    "objectID": "blog/index.html#categories",
-    "href": "blog/index.html#categories",
-    "title": "Blog",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "🔬 Research",
     "section": "",
-    "text": "Research Updates\nTutorials\nProject Updates\nGeneral Thoughts"
+    "text": "Information Science PhD student, with a focus on human-computer interaction, information behavior, and utilizing technology to enhance detection K9-handler teams.\n\n🥼 My work explores: - 🐶 Detection dogs - ℹ️ Information Behavior - 🧑‍💻 Human-Computer Interaction\nto improve detection capabilites and response during emergencies and disasters."
   },
   {
-    "objectID": "blog/index.html#subscribe",
-    "href": "blog/index.html#subscribe",
-    "title": "Blog",
-    "section": "",
-    "text": "Stay updated with my latest posts by following me on Twitter or subscribing to the RSS feed."
+    "objectID": "research.html#published",
+    "href": "research.html#published",
+    "title": "🔬 Research",
+    "section": "📖 Published",
+    "text": "📖 Published"
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "📝 Blog and Professional Channels",
+    "objectID": "research.html#forthcoming-submitted",
+    "href": "research.html#forthcoming-submitted",
+    "title": "🔬 Research",
+    "section": "📝 Forthcoming (Submitted)",
+    "text": "📝 Forthcoming (Submitted)\n\nKatie Baronowski, Thomas Sadekoski, Kathryn Miller, Brian Hefferon, Eric Best, Mark Cornwell, Jennifer Essler. Round Goby Detection Dogs"
+  },
+  {
+    "objectID": "professional.html",
+    "href": "professional.html",
+    "title": "💼 Professional Experience",
     "section": "",
-    "text": "Welcome! Here you will find my professional writings, research updates, and project showcases across different platforms:\n\n🧑‍💻 GitHub — Code repositories, project demos, and practical implementations.  🔗 LinkedIn — Connect and follow my professional updates. \nThank you for your time!"
+    "text": "AEOP Fellowship (Remote) Jun 2025 – Sept 2025 🏢 US ARMY DEVCOM Chemical Biological Center, USA 📝 Develop innovative methods to improve the performance of detection dogs.\n\n\nSummer Intern (Part-time) Jun 2025 – Aug 2025 🏢 State University of New York, NY, USA - 🤖 Developed framework for horizon scanning. - 🧠 Enhanced white papers with new research from the 64 SUNY campuses. - 📈 Built blog post communications pipeline.\n\n\nResearch Coordinator  Jun 2025 – Aug 2025 🏢 State University of New York at Cobleskill, NY, USA - 🖼️ Coordinated Round Goby detection dog project with USGS. - 🚀 Collected samples, trained participants, ran expiremental trials."
   },
   {
     "objectID": "index.html",
@@ -53,7 +60,7 @@
     "href": "index.html#education",
     "title": "Katie B",
     "section": "Education",
-    "text": "Education\n🎓 PhD Student in Information Science, State University of New York at Albany, USA (Aug 2024 – Present)  - Cumulative GPA: 4.00/4.00.  - Primary Specialization: Information for Risk in Emergency Management and Security - Secondary Specialization: Information in Organizational Environments\n🎓 Bachlelor of Technology in Canine Training and Management and Bachelor of Science in Applied Psychology, SUNY Cobleskill, USA (Aug 2020 – May 2024)  - Outstanding Student in Psychology 2024.  - Student Leadership Award 2024.  - Honors Capstone: Canine discrimination of the enantiomers of carvone."
+    "text": "Education\n🎓 PhD Student in Information Science, State University of New York at Albany, USA (Aug 2024 – Present)  - Cumulative GPA: 4.00/4.00.  - Primary Specialization: Information for Risk in Emergency Management and Security - Secondary Specialization: Information in Organizational Environments\n🎓 Bachelor of Technology in Canine Training and Management and Bachelor of Science in Applied Psychology, SUNY Cobleskill, USA (Aug 2020 – May 2024)  - Outstanding Student in Psychology 2024.  - Student Leadership Award 2024.  - Honors Capstone: Canine discrimination of the enantiomers of carvone."
   },
   {
     "objectID": "index.html#research-overview",
@@ -84,27 +91,6 @@
     "text": "Contact\n📧 kbaronowski@albany.edu \nThank you!"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "🔬 Research",
-    "section": "",
-    "text": "Information Science PhD student, with a focus on human-computer interaction, information behavior, and utilizing technology to enhance detection K9-handler teams.\n\n🥼 My work explores: - 🐶 Detection dogs - ℹ️ Information Behavior - 🧑‍💻 Human-Computer Interaction\nto improve detection capabilites and response during emergencies and disasters."
-  },
-  {
-    "objectID": "research.html#published",
-    "href": "research.html#published",
-    "title": "🔬 Research",
-    "section": "📖 Published",
-    "text": "📖 Published"
-  },
-  {
-    "objectID": "research.html#forthcoming-submitted",
-    "href": "research.html#forthcoming-submitted",
-    "title": "🔬 Research",
-    "section": "📝 Forthcoming (Submitted)",
-    "text": "📝 Forthcoming (Submitted)\n\nKatie Baronowski, Thomas Sadekoski, Kathryn Miller, Brian Hefferon, Eric Best, Mark Cornwell, Jennifer Essler. Round Goby Detection Dogs"
-  },
-  {
     "objectID": "academic.html",
     "href": "academic.html",
     "title": "🏫 Academic Experience",
@@ -112,24 +98,38 @@
     "text": "🎓 Education\n\n\nPh.D. Student in Information Science  Aug 2024 – Present 🏫 State University of New York at Albany, NY, USA 🔬 Research Topic: Trustworthy Machine Learning and AI through the Lens of Privacy and Security\n\n\nBachelor in Science, Applied Psychology Bachelor in Technology, Canine Training and Management Aug 2020 – May 2024 🏫 State University of New York at Cobleskill, NY, USA 📝 Honors Capstone: Canine discrimination of carvone enantiomers \n\n\n\n\n👨‍🏫 Teaching & Student Mentorship Experience\n\n\nIntern Mentor – State University of New York at Albany Jan 2024 – Present 🤝 Mentored undergraduate interns in the Mobile Sensor Lab.\n\n\nTeaching Assistant – Northeastern University Aug 2021 – Dec 2021 📚 Course: ANSC 364 - Canine Detection\n\n\n\n\n🏆 Honors & Awards\n\n🏅 Women in Technology, Initiative for Women Jul 2025  🎓 Student Leadership Excellence Award, State University of New York at Cobleskill May 2024  🏅 Outstanding Student in Applied Psychology May 2024 \n\n\n\n🤝 Professional Services\n\n🤖 Organizer committee, NTIR Conference - Where Innovation Meets Information 2025 April 2025  📖 Journal Reviewer, Natural Hazards Review June 2025"
   },
   {
-    "objectID": "professional.html",
-    "href": "professional.html",
-    "title": "💼 Professional Experience",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "📝 Blog and Professional Channels",
     "section": "",
-    "text": "AEOP Fellowship (Remote) Jun 2025 – Sept 2025 🏢 US ARMY DEVCOM Chemical Biological Center, USA 📝 Develop innovative methods to improve the performance of detection dogs.\n\n\nSummer Intern (Part-time) Jun 2025 – Aug 2025 🏢 State University of New York, NY, USA - 🤖 Developed framework for horizon scanning. - 🧠 Enhanced white papers with new research from the 64 SUNY campuses. - 📈 Built blog post communications pipeline.\n\n\nResearch Coordinator  Jun 2025 – Aug 2025 🏢 State University of New York at Cobleskill, NY, USA - 🖼️ Coordinated Round Goby detection dog project with USGS. - 🚀 Collected samples, trained participants, ran expiremental trials."
+    "text": "Welcome! Here you will find my professional writings, research updates, and project showcases across different platforms:\n\n🧑‍💻 GitHub — Code repositories, project demos, and practical implementations.  🔗 LinkedIn — Connect and follow my professional updates. \nThank you for your time!"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "👩🏻‍🔬 Practical Projects",
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
     "section": "",
-    "text": "This proof of principle project was designed to test the feasibility of round goby detection dogs, in collaboration with USGS."
+    "text": "Here you’ll find my thoughts, tutorials, and updates about my work.\n\n\n\n\n\nDate: January 1, 2024\nA brief description of the blog post content.\n\n\n\nDate: December 15, 2023\nA brief description of the blog post content.\n\n\n\n\n\n\nResearch Updates\nTutorials\nProject Updates\nGeneral Thoughts\n\n\n\n\nStay updated with my latest posts by following me on Twitter or subscribing to the RSS feed."
   },
   {
-    "objectID": "projects.html#i.-detection-dogs",
-    "href": "projects.html#i.-detection-dogs",
-    "title": "👩🏻‍🔬 Practical Projects",
+    "objectID": "blog/index.html#recent-posts",
+    "href": "blog/index.html#recent-posts",
+    "title": "Blog",
     "section": "",
-    "text": "This proof of principle project was designed to test the feasibility of round goby detection dogs, in collaboration with USGS."
+    "text": "Date: January 1, 2024\nA brief description of the blog post content.\n\n\n\nDate: December 15, 2023\nA brief description of the blog post content."
+  },
+  {
+    "objectID": "blog/index.html#categories",
+    "href": "blog/index.html#categories",
+    "title": "Blog",
+    "section": "",
+    "text": "Research Updates\nTutorials\nProject Updates\nGeneral Thoughts"
+  },
+  {
+    "objectID": "blog/index.html#subscribe",
+    "href": "blog/index.html#subscribe",
+    "title": "Blog",
+    "section": "",
+    "text": "Stay updated with my latest posts by following me on Twitter or subscribing to the RSS feed."
   }
 ]
