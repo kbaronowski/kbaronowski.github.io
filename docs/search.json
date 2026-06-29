@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "👩🏻‍🔬 Practical Projects",
-    "section": "",
-    "text": "This proof of principle project was designed to test the feasibility of round goby detection dogs, in collaboration with USGS."
-  },
-  {
-    "objectID": "projects.html#i.-detection-dogs",
-    "href": "projects.html#i.-detection-dogs",
-    "title": "👩🏻‍🔬 Practical Projects",
-    "section": "",
-    "text": "This proof of principle project was designed to test the feasibility of round goby detection dogs, in collaboration with USGS."
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "🔬 Research",
-    "section": "",
-    "text": "Information Science PhD student, with a focus on human-computer interaction, information behavior, and utilizing technology to enhance detection K9-handler teams.\n\n🥼 My work explores: - 🐶 Detection dogs - ℹ️ Information Behavior - 🧑‍💻 Human-Computer Interaction\nto improve detection capabilites and response during emergencies and disasters."
-  },
-  {
-    "objectID": "research.html#published",
-    "href": "research.html#published",
-    "title": "🔬 Research",
-    "section": "📖 Published",
-    "text": "📖 Published"
-  },
-  {
-    "objectID": "research.html#forthcoming-submitted",
-    "href": "research.html#forthcoming-submitted",
-    "title": "🔬 Research",
-    "section": "📝 Forthcoming (Submitted)",
-    "text": "📝 Forthcoming (Submitted)\n\nKatie Baronowski, Thomas Sadekoski, Kathryn Miller, Brian Hefferon, Eric Best, Mark Cornwell, Jennifer Essler. Round Goby Detection Dogs"
-  },
-  {
     "objectID": "professional.html",
     "href": "professional.html",
     "title": "💼 Professional Experience",
@@ -46,21 +11,21 @@
     "href": "index.html",
     "title": "Katie B",
     "section": "",
-    "text": "Welcome to my profile! \n\n\n\n\n\nHello, I’m Katie Baronowski  🎓 PhD Student in Information Science 🏫 State University of New York at Albany (UAlbany) 📍 New York, USA \n🔬 Research Interests:\n- Human-Computer Interaction\n- Improving Detection Dog Capabilities - Information Behavior"
+    "text": "Welcome to my profile! \n\n\n\n\n\nHello, I’m Katie Baronowski  🎓 PhD Student in Information Science 🏫 State University of New York at Albany (UAlbany) 📍 New York, USA \n🔬 Research Interests:\n- Information-driven algorithms - Odor-source localization - Detection K9-technology interaction\nKeywords: odor source localization; information-driven search algorithms; mobile sensing; detection dogs; UAS; spatial data science; applied AI; sensor fusion; human-animal-computer interaction"
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Katie B",
     "section": "",
-    "text": "Welcome to my profile! \n\n\n\n\n\nHello, I’m Katie Baronowski  🎓 PhD Student in Information Science 🏫 State University of New York at Albany (UAlbany) 📍 New York, USA \n🔬 Research Interests:\n- Human-Computer Interaction\n- Improving Detection Dog Capabilities - Information Behavior"
+    "text": "Welcome to my profile! \n\n\n\n\n\nHello, I’m Katie Baronowski  🎓 PhD Student in Information Science 🏫 State University of New York at Albany (UAlbany) 📍 New York, USA \n🔬 Research Interests:\n- Information-driven algorithms - Odor-source localization - Detection K9-technology interaction\nKeywords: odor source localization; information-driven search algorithms; mobile sensing; detection dogs; UAS; spatial data science; applied AI; sensor fusion; human-animal-computer interaction"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Katie B",
     "section": "Education",
-    "text": "Education\n🎓 PhD Student in Information Science, State University of New York at Albany, USA (Aug 2024 – Present)  - Cumulative GPA: 4.00/4.00.  - Primary Specialization: Information for Risk in Emergency Management and Security - Secondary Specialization: Information in Organizational Environments\n🎓 Bachelor of Technology in Canine Training and Management and Bachelor of Science in Applied Psychology, SUNY Cobleskill, USA (Aug 2020 – May 2024)  - Outstanding Student in Psychology 2024.  - Student Leadership Award 2024.  - Honors Capstone: Canine discrimination of the enantiomers of carvone."
+    "text": "Education\n🎓 PhD Student in Information Science, State University of New York at Albany, USA (Aug 2024 – Present)  - Primary Specialization: Data Analytics - Secondary Specialization: TBD\n🎓 Bachelor of Technology in Canine Training and Management and Bachelor of Science in Applied Psychology, SUNY Cobleskill, USA (Aug 2020 – May 2024)  - Outstanding Student in Psychology 2024.  - Student Leadership Award 2024.  - Honors Capstone: Canine discrimination of the enantiomers of carvone."
   },
   {
     "objectID": "index.html#research-overview",
@@ -70,11 +35,11 @@
     "text": "Research Overview\nMy research explores the intersection of Technological and the Biological, developing AI algorithms that enhance predication of target odor and the efficacy of search and rescue."
   },
   {
-    "objectID": "index.html#recent-updates",
-    "href": "index.html#recent-updates",
+    "objectID": "index.html#updates",
+    "href": "index.html#updates",
     "title": "Katie B",
-    "section": "Recent Updates",
-    "text": "Recent Updates\n🏆 Received IFW Women in Technology Award.  🚀 Received AEOP Fellowship. 📜 Attending INTERSECT bootcamp at Princeton New Jersey (July 2025).  ✍️ First-author manuscript on detection dogs.  🚀 Mentoring undergraduate students in the Mobile Sensor Lab at UAlbany."
+    "section": "Updates",
+    "text": "Updates\n🏆 Received IFW New Frontiers Award (2026).  ✍️ Round goby detection dogs paper in R&R in Biological Invasions (2026).  🚀 Received AEOP Fellowship (2025). 🏆 Received IFW Women in Technology Award (2025).  📜 Attending INTERSECT bootcamp at Princeton New Jersey (2025).  ✍️ Submitted 1st manuscript and as the first author (2025). 🚀 Mentoring undergraduate students in the Mobile Sensor Lab at UAlbany (ongoing)."
   },
   {
     "objectID": "index.html#quick-links",
@@ -91,18 +56,25 @@
     "text": "Contact\n📧 kbaronowski@albany.edu \nThank you!"
   },
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "👩🏻‍🔬 Practical Projects",
+    "section": "",
+    "text": "This proof of principle project was designed to test the feasibility of round goby detection dogs, in collaboration with USGS."
+  },
+  {
+    "objectID": "projects.html#i.-detection-dogs",
+    "href": "projects.html#i.-detection-dogs",
+    "title": "👩🏻‍🔬 Practical Projects",
+    "section": "",
+    "text": "This proof of principle project was designed to test the feasibility of round goby detection dogs, in collaboration with USGS."
+  },
+  {
     "objectID": "academic.html",
     "href": "academic.html",
     "title": "🏫 Academic Experience",
     "section": "",
     "text": "🎓 Education\n\n\nPh.D. Student in Information Science  Aug 2024 – Present 🏫 State University of New York at Albany, NY, USA 🔬 Research Topic: Trustworthy Machine Learning and AI through the Lens of Privacy and Security\n\n\nBachelor in Science, Applied Psychology Bachelor in Technology, Canine Training and Management Aug 2020 – May 2024 🏫 State University of New York at Cobleskill, NY, USA 📝 Honors Capstone: Canine discrimination of carvone enantiomers \n\n\n\n\n👨‍🏫 Teaching & Student Mentorship Experience\n\n\nIntern Mentor – State University of New York at Albany Jan 2024 – Present 🤝 Mentored undergraduate interns in the Mobile Sensor Lab.\n\n\nTeaching Assistant – Northeastern University Aug 2021 – Dec 2021 📚 Course: ANSC 364 - Canine Detection\n\n\n\n\n🏆 Honors & Awards\n\n🏅 Women in Technology, Initiative for Women Jul 2025  🎓 Student Leadership Excellence Award, State University of New York at Cobleskill May 2024  🏅 Outstanding Student in Applied Psychology May 2024 \n\n\n\n🤝 Professional Services\n\n🤖 Organizer committee, NTIR Conference - Where Innovation Meets Information 2025 April 2025  📖 Journal Reviewer, Natural Hazards Review June 2025"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "📝 Blog and Professional Channels",
-    "section": "",
-    "text": "Welcome! Here you will find my professional writings, research updates, and project showcases across different platforms:\n\n🧑‍💻 GitHub — Code repositories, project demos, and practical implementations.  🔗 LinkedIn — Connect and follow my professional updates. \nThank you for your time!"
   },
   {
     "objectID": "blog/index.html",
@@ -131,5 +103,33 @@
     "title": "Blog",
     "section": "",
     "text": "Stay updated with my latest posts by following me on Twitter or subscribing to the RSS feed."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "📝 Blog and Professional Channels",
+    "section": "",
+    "text": "Welcome! Here you will find my professional writings, research updates, and project showcases across different platforms:\n\n🧑‍💻 GitHub — Code repositories, project demos, and practical implementations.  🔗 LinkedIn — Connect and follow my professional updates. \nThank you for your time!"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "🔬 Research",
+    "section": "",
+    "text": "Information Science PhD student, with a focus on human-computer interaction, information behavior, and utilizing technology to enhance detection K9-handler teams.\n\n🥼 My work explores: - 🐶 Detection dogs - ℹ️ Information Behavior - 🧑‍💻 Human-Computer Interaction\nto improve detection capabilites and response during emergencies and disasters."
+  },
+  {
+    "objectID": "research.html#published",
+    "href": "research.html#published",
+    "title": "🔬 Research",
+    "section": "📖 Published",
+    "text": "📖 Published"
+  },
+  {
+    "objectID": "research.html#forthcoming-submitted",
+    "href": "research.html#forthcoming-submitted",
+    "title": "🔬 Research",
+    "section": "📝 Forthcoming (Submitted)",
+    "text": "📝 Forthcoming (Submitted)\n\nKatie Baronowski, Thomas Sadekoski, Kathryn Miller, Brian Hefferon, Eric Best, Mark Cornwell, Jennifer Essler. Round Goby Detection Dogs"
   }
 ]

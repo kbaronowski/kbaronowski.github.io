@@ -19,9 +19,11 @@ Hello, I'm <span style="font-size: 28px; color:rgb(128, 51, 204);"><strong>Katie
 📍 New York, USA <br>
 
 🔬 **Research Interests**:  
-- Human-Computer Interaction  
-- Improving Detection Dog Capabilities 
-- Information Behavior
+- Information-driven algorithms 
+- Odor-source localization
+- Detection K9-technology interaction
+
+Keywords: odor source localization; information-driven search algorithms; mobile sensing; detection dogs; UAS; spatial data science; applied AI; sensor fusion; human-animal-computer interaction
 
 :::
 :::
@@ -29,9 +31,8 @@ Hello, I'm <span style="font-size: 28px; color:rgb(128, 51, 204);"><strong>Katie
 ## Education
 
 🎓 **PhD Student in Information Science**, State University of New York at Albany, USA (Aug 2024 – Present)  <br>
-  - Cumulative GPA: 4.00/4.00. <br>
-  - Primary Specialization: Information for Risk in Emergency Management and Security
-  - Secondary Specialization: Information in Organizational Environments
+  - Primary Specialization: Data Analytics
+  - Secondary Specialization: TBD
 
 🎓 **Bachelor of Technology in Canine Training and Management and Bachelor of Science in Applied Psychology**, SUNY Cobleskill, USA (Aug 2020 – May 2024) <br>
   - Outstanding Student in Psychology 2024. <br>
@@ -42,13 +43,15 @@ Hello, I'm <span style="font-size: 28px; color:rgb(128, 51, 204);"><strong>Katie
 
 My research explores the intersection of **Technological** and the **Biological**, developing AI algorithms that enhance **predication of target odor** and the **efficacy of search and rescue**.
 
-## Recent Updates
+## Updates
 
-🏆 Received IFW **Women in Technology Award**.  <br>
-🚀 Received **AEOP Fellowship**.
-📜 Attending **INTERSECT** bootcamp at Princeton New Jersey (July 2025).  <br>
-✍️ First-author manuscript on **detection dogs**.  <br>
-🚀 Mentoring undergraduate students in the **Mobile Sensor Lab** at UAlbany.
+🏆 Received IFW **New Frontiers** Award (2026). <br>
+✍️ Round goby detection dogs paper in R&R in **Biological Invasions** (2026).  <br>
+🚀 Received **AEOP Fellowship** (2025).
+🏆 Received IFW **Women in Technology** Award (2025).  <br>
+📜 Attending **INTERSECT** bootcamp at Princeton New Jersey (2025).  <br>
+✍️ Submitted **1st manuscript** and as the first author (2025).
+🚀 Mentoring undergraduate students in the **Mobile Sensor Lab** at UAlbany (ongoing).
 
 
 ## Quick Links
