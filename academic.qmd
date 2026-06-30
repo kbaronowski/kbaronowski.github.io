@@ -9,7 +9,7 @@ format: html
 <li>
 <strong>Ph.D. Student in Information Science</strong> <span class="date-inline"> Aug 2024 – Present</span><br>
 🏫 State University of New York at Albany, NY, USA<br>
-🔬 Research Topic: Trustworthy Machine Learning and AI through the Lens of Privacy and Security<br>
+🔬 Research Topic: Detection K9 inspired algorithms for odor-source localization with other mobile sensors as a distributed information system <br>
 </li>
 
 <li>
@@ -28,7 +28,7 @@ format: html
 </li>
 
 <li>
-<strong>Teaching Assistant</strong> – Northeastern University <span class="date-inline">Aug 2021 – Dec 2021</span><br>
+<strong>Teaching Assistant</strong> – State University of New York at Cobleskill <span class="date-inline">Jan 2024 – May 2024</span><br>
 📚 Course: ANSC 364 - Canine Detection
 </li>
 </ul>
